@@ -2,7 +2,9 @@ Prezto — Instantly Awesome Zsh
 ==============================
 
 
-## This is a fork of prezto by TN. 
+This is a fork of prezto by tngai-github. The color scheme in steeef was slightly modified for legibility with white background shell.
+
+------------------
 
 
 Prezto is the configuration framework for [Zsh][1]; it enriches the command line
