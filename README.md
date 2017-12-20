@@ -1,6 +1,10 @@
 Prezto — Instantly Awesome Zsh
 ==============================
 
+
+## This is a fork of prezto by TN. 
+
+
 Prezto is the configuration framework for [Zsh][1]; it enriches the command line
 interface environment with sane defaults, aliases, functions, auto completion,
 and prompt themes.
