@@ -2,7 +2,8 @@ Prezto — Instantly Awesome Zsh
 ==============================
 
 
-This is a fork of prezto by tngai-github. The color scheme in steeef was slightly modified for legibility with white background shell.
+This is a fork of prezto. The color scheme in steeef was slightly modified for legibility with white background shell.
+As well, shell depth and the number of background jobs are shown in prompt.
 
 ------------------
 
